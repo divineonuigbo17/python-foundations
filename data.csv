@@ -1,4 +1,4 @@
-Name,Score
-Alice,90
-Bob,75
-Charlie,82
+Name,Score,Age
+Alice,90,17
+Bob,75,19
+Yves,82,18

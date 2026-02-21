@@ -8,7 +8,7 @@ with open('data.csv', 'r') as file:
     row_count = 0
 
     for row in reader:
-        print(f"{row['Name']} scored {row['Score']}")
+        print(f"{row['Name']} scored {row['Score']} and is {row['Age']} years old")
         total_Score += int(row['Score'])
         row_count +=1
 
