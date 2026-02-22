@@ -1,4 +1,5 @@
-Name,Score,Age
-Alice,90,17
-Bob,75,19
-Yves,82,18
+Name,Score,Age,Weight
+Alice,90,17,59
+Bob,75,19,73
+Yves,82,18,71
+Mary,75,18,62
